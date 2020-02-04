@@ -41,3 +41,4 @@ Also, since you have used the Github API before, you know some of the gotchas. M
 
 When you have those completed, you're ready to start coding!
 
+![alt githubcard photo](https://github.com/JRodDvlpr/React-Github-User-Card/blob/master/src/img/GHcard.png)
